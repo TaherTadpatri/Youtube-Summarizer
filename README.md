@@ -1,27 +1,24 @@
-<h1>Introudction</h1>
-This project aims to learn from the video videos with assessment 
+# Introduction
 
-generally when the user share the youtube link ---> 
+This project aims to facilitate learning from YouTube videos by providing automatic assessment generation based on the video content.
 
---- > based on the chapters in the youtube video the platform gives the summary of the chapter with the help of the transcript
-----> query if you got stuck somewhere 
-----> assessment based on the chapter 
+When a user shares a YouTube link:
+- The platform extracts chapters from the video and generates summaries for each chapter using the transcript.
+- Users can query the platform if they encounter difficulties understanding certain concepts.
+- Assessments are generated based on the content covered in each chapter, aiding in efficient learning.
 
-so that you can learn efficiently 
+# Installation
 
-<h2>Installation</h2>
+### Frontend
+- React.js
 
- fontend ==> react
- backend ==> django 
+### Backend
+- Django
 
- install all the necesssary dependency 
+### Dependencies
 
- aditionally install 
- ollama => https://ollama.com/ and make sure to install via pip also
- install question and answer generation model from the github   => https://github.com/KristiyanVachev/Leaf-Question-Generation
+Install all necessary dependencies. Additionally, install the following:
+- Ollama: [https://ollama.com/](https://ollama.com/) (also install via pip)
+- Question and Answer Generation Model: [GitHub](https://github.com/KristiyanVachev/Leaf-Question-Generation)
 
-
-<h2>Result</h2>
-
-
- 
+# Result
