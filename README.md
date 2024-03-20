@@ -18,7 +18,17 @@ When a user shares a YouTube link:
 ### Dependencies
 
 Install all necessary dependencies. Additionally, install the following:
-- Ollama: [https://ollama.com/](https://ollama.com/) (also install via pip)
+- Ollama: [https://ollama.com/](https://ollama.com/) (also install via pip) 
 - Question and Answer Generation Model: [GitHub](https://github.com/KristiyanVachev/Leaf-Question-Generation)
 
 # Result
+1.Chapters of the youtube video
+    ![home page with the chapters name](home.jpg)
+2.Summary of the chapter
+   ![summary of the chapter](summary.jpg)
+3.Query
+  ![query](query.jpg)
+4.Assessment
+  ![Assessment](assessment.jpg)
+
+
